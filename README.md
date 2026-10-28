@@ -90,6 +90,8 @@ Scripts:
 
 The report is in [`powerbi/olist_dashboard.pbix`](powerbi/olist_dashboard.pbix) (open with Power BI Desktop).
 
+📄 The full group report is in [`docs/IT3101_Group_Assignment_Report.pdf`](docs/IT3101_Group_Assignment_Report.pdf).
+
 **1 · Executive Summary** – revenue, orders, freight and delivery-delay KPIs, revenue by product
 category and by customer state.
 
@@ -139,4 +141,9 @@ for roll-up, and a decomposition tree for drill-down.
 
 **Adithya Bandara** – [Portfolio](https://adirc7.github.io) · [LinkedIn](https://www.linkedin.com/in/adithya-bandara-3808192b2) · [GitHub](https://github.com/Adirc7)
 
-Group project (IT3101, SLIIT – Group 2026-DS-09).
+Group project (IT3101, SLIIT – Group 2026-DS-09):
+
+- Jayawardana D I A
+- Bandara H M T A
+- Jayamuni J T S J
+- Kumara D K G R D
